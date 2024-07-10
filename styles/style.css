@@ -1,0 +1,169 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.azeret-mono-fonts{
+    font-family: "Azeret Mono", monospace;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+  }
+
+/* Share Styles */
+.text-align{
+    text-align: center;
+}
+
+.banner-section{
+    background-image: url(/assets/Hero-bg.png);
+    width: 1349px;
+    height: 600px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.hero-section{
+
+}
+.hero-section img{
+    margin-top: 55px;
+}
+.hero-content{
+    width: 880px;
+    text-align: center;
+    margin-left: 229px;
+
+
+}
+.hero-content h2{
+    font-size: 42px;
+    font-weight: 800;
+    line-height: 59px;
+    margin-top: 24px;
+}
+.hero-content p{
+    color: rgba(13, 19, 33);
+    line-height: 28px;
+    margin-top: 4px;
+    opacity: 0.7;
+
+}
+.hero-button{
+    background-color: black;
+    padding: 16px 28px;
+    border-radius: 7px;
+    border: none;
+    margin-top: 22px;
+}
+.hero-button a{
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+    font-weight: 600;
+}
+/* About style */
+
+.about{
+    width: 1014px;
+    background-color: rgba(13, 19, 33, 0.02);
+    padding: 75px 0 0 0;
+    margin: 57px 175px;
+}
+.about-heading{
+    width: 783px;
+    text-align: center;
+    margin-left: 127px
+}
+.about-heading h3{
+    font-size: 30px;
+    font-weight: 800;
+    line-height: 59px;
+}
+.about-heading p{
+    color: rgba(13, 19, 33);
+    line-height: 28px;
+    margin-top: 4px;
+    opacity: 0.7;
+
+}
+.main-container{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 96px;
+}
+.main-section{
+    width: 37%;
+}
+.main-section h4{
+    font-weight: 800;
+    font-size: 23px;
+    color: rgba(13, 19, 33);
+    margin-bottom: 14px;
+    opacity: 0.7;
+}   
+.main-section p{
+    color: rgba(13, 19, 33);
+    line-height: 27px;
+    margin-top: 4px;
+    opacity: 0.7;
+
+}
+.primary-btn{
+    border: 1px solid rgba(13, 19, 33);
+    opacity: 0.7;
+    margin-top: 22px;
+    padding: 10px 24px;
+}
+.primary-btn a{
+    text-decoration: none;
+    color: rgba(13, 19, 33);
+    opacity: 0.7;
+    font-size: 19px;
+    font-weight: 700;
+}
+.main-section img{
+    margin-left: 82px;
+}
+.section-image2{
+    width: 50%
+}
+.section-image2 h4{
+    font-weight: 800;
+    font-size: 23px;
+    color: rgba(13, 19, 33);
+    margin-bottom: 14px;
+    opacity: 0.7;
+}
+.section-image2 p{
+    color: rgba(13, 19, 33);
+    line-height: 27px;
+    margin-top: 4px;
+    opacity: 0.7;
+
+}
+
+/* Media Section */
+
+.media-section{
+    width: 1100px;
+
+    margin: 57px 175px;
+}
+.content{
+    margin-top: 22px;
+    background-size: cover;
+    width: 1000px;
+    height: 500px;
+    border-radius: 15px;
+}
+.content-border{
+    width: 1051px;
+    height: 546px;
+    margin-left: -137px;
+    margin-top: 49px;
+    box-sizing: border-box;
+    border: 1px solid rgba(13, 19, 33, 0.2);
+    border-radius: 16px;
+
+
+}
