@@ -167,3 +167,131 @@
 
 
 }
+.skill-section{
+    width: 1014px;
+    padding: 75px 0 0 0;
+    margin: 57px 175px;
+}
+.skill-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 98px;
+}
+.skill-html{
+    padding: 42px 18px;
+    width: 287px;
+
+}
+.skill-html h4{
+    font-size: 24px;
+    margin: 15px 0;
+    font-weight: 800;
+
+}
+.skill-html p{
+
+}
+.first-skill{
+    border-radius: 16px;
+    background: rgba(255, 76, 30, 0.05);
+}
+.second-skill{
+    border-radius: 16px;
+    background: rgba(0, 76, 232, 0.05);
+}
+.third-skill{
+    border-radius: 16px;
+    background: rgba(255, 223, 0, 0.05);
+}
+.skill-html p{
+    color: rgba(13, 19, 33);
+    line-height: 28px;
+    margin-top: 4px;
+    opacity: 0.7;
+    margin-bottom: 16px;
+}
+.skill-html a{
+    padding-top: 20px;
+    color: rgb(13, 19, 33);
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+
+.support-image{
+    background-image: url(/assets/handshake.jpg);
+    background-size: auto;
+    background-repeat: no-repeat;
+    /* background-color: red; */
+    width: 1014px;
+    padding: 75px 0 0 0;
+    margin: 57px 175px;
+    background-position-x: center;
+    background-position-y: center;
+    border-radius: 16px;
+    background-size: cover;
+    border-radius: 16px;
+
+
+}
+
+.head{
+    color: white;
+}
+.head h3{
+    color: rgb(14, 3, 78);
+}
+.head p{
+    color: rgb(255, 255, 255);
+    line-height: 28px;
+    margin-top: 4px;
+    opacity: 0.7;
+    margin-bottom: 16px;
+
+}
+.form{
+    padding-bottom: 50px;
+    margin-top: 43px;
+}
+.form .types{
+    border-radius: 10px;
+    font-size: 25px;
+    font-size: 20px;
+    padding: 20px 115px;
+}
+.form .btn{
+    font-size: 25px;
+    border-radius: 10px;
+    padding: 17px 44px;
+    font-weight: bold;
+}
+.form input{
+    border: none;
+}
+.form ::placeholder{
+    text-align: right;
+}
+input{
+    text-align: right;
+}
+
+.footer-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 98px;
+    width: 1036px;
+    margin: 57px 176px;
+
+}
+.footer-container h4{
+    font-size: 22px;
+}
+.footer-image{
+    padding: 0 20px;
+}
+.footer-image a{
+    text-decoration: none;
+}
